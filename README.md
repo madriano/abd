@@ -11,3 +11,8 @@ svn checkout https://github.com/madriano/abd/trunk/Aulas/Aula_01
 Para a directoria Aulas/Aula_02:
 
 svn checkout https://github.com/madriano/abd/trunk/Aulas/Aula_02
+
+Para a directoria Aulas/Aula_03:
+
+svn checkout https://github.com/madriano/abd/trunk/Aulas/Aula_03
+
