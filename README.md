@@ -22,3 +22,7 @@ Para a directoria Aulas/Aula_05:
 
 svn checkout https://github.com/madriano/abd/trunk/Aulas/Aula_05
 
+Para a directoria Aulas/Aula_06
+
+svn checkout https://github.com/madriano/abd/trunk/Aulas/Aula_06
+
