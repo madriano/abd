@@ -1,0 +1,2 @@
+Comando a executar no Terminal para obter o ficheiro de dados:
+
