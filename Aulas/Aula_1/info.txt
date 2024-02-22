@@ -1,2 +1,1 @@
-Comando a executar no Terminal para obter o ficheiro de dados:
-
+O ficheiro de dados está acessível no Moodle.
